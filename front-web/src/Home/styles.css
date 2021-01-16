@@ -1,5 +1,5 @@
 .home-container {
-    padding-top: 100px;
+    padding-top: 10px;
     height: calc(100vh - 254px);
   }
   
@@ -14,7 +14,7 @@
   
   .home-title {
     font-weight: bold;
-    font-size: 55px;
+    font-size: 45px;
     line-height: 58px;
     letter-spacing: -0.015em;
     color: var(--dark-color);
